@@ -1,0 +1,14 @@
+.download-btn--grey {
+  width: 144px;
+  height: 46px;
+  background: rgba(224, 224, 224, 0.3);
+  border-radius: 5px;
+  border: none;
+  color: #878787;
+  font-family: Inter;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 18px;
+  margin-bottom: 20%;
+  padding: 0;
+}

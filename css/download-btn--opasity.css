@@ -1,0 +1,14 @@
+.download-btn--opacity {
+  width: 144px;
+  height: 46px;
+  background: #FFFFFF;
+  border-radius: 5px;
+  border: 1px solid #E0E0E0;
+  color: #2C2C2C;
+  font-family: Inter;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 18px;
+  margin-bottom: 20%;
+  padding: 0;
+}
